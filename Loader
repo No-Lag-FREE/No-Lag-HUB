@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGardenScriptts/No-Lag-HUB/main/Loader"))()
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/KZ2qZStDGB/0", true))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/Mj9AivVwMu/0", true))()
