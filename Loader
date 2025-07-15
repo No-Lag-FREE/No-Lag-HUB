@@ -1,4 +1,4 @@
-identifyexecutor = function() return "Codex" end
-getgenv().identifyexecutor = function() return "Codex" end
+identifyexecutor = function() return "Delta" end
+getgenv().identifyexecutor = function() return "Delta" end
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGardenScriptts/key-loadingscreen-kizuyi/refs/heads/main/loadingscreen%2Bkeysystem"))()
 loadstring(game:HttpGet("https://cdn.sourceb.in/bins/Cx2dnCXFrC/0", true))()
