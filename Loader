@@ -1,2 +1,2 @@
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/NoLag-id/No-Lag-HUB/refs/heads/main/Loader/LoaderV1.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGardenScriptts/key-loadingscreen-kizuyi/refs/heads/main/loadingscreen%2Bkeysystem"))()
 loadstring(game:HttpGet("https://cdn.sourceb.in/bins/wupBRRB4HH/0", true))()
